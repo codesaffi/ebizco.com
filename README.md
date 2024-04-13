@@ -829,7 +829,7 @@ span{
 
      <section class="testimonials" id="testimonials">
       <div class="testimonials-box">
-        <h2 class="heading">testimonials</h2>
+        <h2 class="heading">testimonials </h2>
 
           <div class="wrapper">
             <div class="testimonial-item">
@@ -872,7 +872,7 @@ span{
             </div>
 
           </div>
-        </h2>
+        
       </div>
      </section>
 
