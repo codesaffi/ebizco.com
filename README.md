@@ -734,7 +734,7 @@ span{
       </div>
 
       <div class="home-img">
-        <img src="index (4).jpg" alt="" />
+        <img src="Work from Home - 2250x1500.png" alt="" />
       </div>
     </section>
 
